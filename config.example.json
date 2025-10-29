@@ -1,0 +1,18 @@
+{
+  "web": [
+    {
+      "url": "https://help.aov.ai/",
+      "max_pages": 30,
+      "delay": 1.0,
+      "allowed_paths": ["/"]
+    }
+  ],
+  "notion": [
+    {
+      "id": "notion-handbook",
+      "path": "notion_export.md"
+    }
+  ],
+  "chunk_size": 600,
+  "chunk_overlap": 120
+}
